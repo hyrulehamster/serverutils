@@ -1,0 +1,6 @@
+name: ServerUtils
+version: ${project.version}
+main: de.hyrulehamster.serverutils.Main
+api-version: 1.17
+authors: [ hyrulehamster ]
+description: Utility for the server.
